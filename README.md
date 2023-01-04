@@ -1,4 +1,4 @@
-# Thinkful Data Analytics - Capstone II
+# Thinkful Data Analytics - Capstone II: Business Research Project
 
 This capstone project required students to complete a business research project. Two datasets were provided and I opted to use the EPA fuel economy dataset. This project challenged students in data exploration, testing hypotheses, and presenting their research findings.
 
